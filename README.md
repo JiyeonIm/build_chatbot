@@ -1,5 +1,5 @@
 # build_chatbot
-Brand Engagement Network Coding Test
+LLAMA 3 (2) model application
 
 ### Installation (in Windows)
 1. Microsoft Visual C++ (2015)
